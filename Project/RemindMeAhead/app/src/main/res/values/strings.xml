@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RemindMeAhead</string>
+    <string name="title_activity_notify_work">NotifyWork</string>
+    <string name="title_activity_vector_to_bitmap">VectorToBitmap</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="notification_title">Reminder</string>
+    <string name="notification_subtitle"></string>
+    <string name="notification_schedule_title">Schedule notification:\u00a0</string>
+    <string name="notification_schedule_pattern">yyyy.MM.dd</string>
+    <string name="notification_schedule_error"></string>
+</resources>

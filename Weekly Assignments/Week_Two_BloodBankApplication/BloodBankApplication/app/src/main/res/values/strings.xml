@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blood Bank Application</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>
